@@ -1,0 +1,82 @@
+/*in specials card description*/
+p.description {
+    font-size: 16pt;
+    line-height: 1.5;
+}
+
+li.description {
+    font-size: 16pt;
+    line-height: 1.5;
+    margin: 5px 0;
+}
+
+h1 {
+    font-size: 64pt;
+    font-weight: bolder;
+    margin: 0;
+}
+
+/*Specials, Testimonials etc*/
+h2 {
+    font-size: 40pt;
+}
+
+p.lead-text {
+    font-size: 18pt;
+    font-weight: bolder;
+}
+
+/*Menu items*/
+.menu-item {
+    font-size: 18pt;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/*Title of specials card, Chicago*/
+h4.card-title {
+    font-size: 18pt;
+    font-weight: bold;
+    margin: 0;
+}
+
+/*Bottom of specials card*/
+p.footer-card {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+/* for prices in specials */
+p.highlight-text, h5 {
+    font-size: 16pt;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+.green {
+    color: #495e57;
+}
+
+.yellow {
+    color: #f4ce14;
+}
+
+.grey {
+    color: #edefee;
+}
+
+.white {
+    color: #fff;
+}
+
+.orange {
+    color: #ee9972
+}
+
+.black {
+    color: #333;
+}
